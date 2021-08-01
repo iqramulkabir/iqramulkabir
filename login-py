@@ -36,7 +36,7 @@ class User:
             print("User is not Logged in!")
  
  
-user1 = User("Iqram", "iqramulkabir@hotmail.com","123456")
+user1 = User("Iqram", "iqramulkabir@hotmail.com","1234567")
  
 user1.login()
 user1.profle()
